@@ -44,6 +44,7 @@ Each folder follows this format:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -73,4 +74,8 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
