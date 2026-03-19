@@ -78,4 +78,12 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
