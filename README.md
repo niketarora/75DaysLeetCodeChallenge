@@ -47,6 +47,7 @@ Each folder follows this format:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0216-combination-sum-iii/) | Medium |
@@ -106,6 +107,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0216-combination-sum-iii/) | Medium |
