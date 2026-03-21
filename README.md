@@ -46,6 +46,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0040-combination-sum-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -101,4 +102,5 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
