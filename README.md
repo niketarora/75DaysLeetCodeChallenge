@@ -44,6 +44,7 @@ Each folder follows this format:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0040-combination-sum-ii/) | Medium |
@@ -70,6 +71,7 @@ Each folder follows this format:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0047-permutations-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -95,6 +97,7 @@ Each folder follows this format:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
