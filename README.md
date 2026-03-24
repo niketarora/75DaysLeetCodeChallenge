@@ -44,6 +44,7 @@ Each folder follows this format:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
@@ -97,6 +98,7 @@ Each folder follows this format:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
@@ -144,4 +146,8 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
