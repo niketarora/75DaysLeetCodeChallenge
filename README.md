@@ -67,6 +67,7 @@ Each folder follows this format:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ Each folder follows this format:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -163,5 +165,6 @@ Each folder follows this format:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
