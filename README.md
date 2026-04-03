@@ -62,6 +62,7 @@ Each folder follows this format:
 | [0283-move-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -147,6 +148,7 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
