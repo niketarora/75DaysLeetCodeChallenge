@@ -64,6 +64,7 @@ Each folder follows this format:
 | [0643-maximum-average-subarray-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
