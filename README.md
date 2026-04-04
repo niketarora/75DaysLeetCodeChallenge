@@ -123,6 +123,7 @@ Each folder follows this format:
 | [0020-valid-parentheses](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -201,4 +202,8 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 <!---LeetCode Topics End-->
