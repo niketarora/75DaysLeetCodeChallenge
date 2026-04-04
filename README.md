@@ -65,6 +65,7 @@ Each folder follows this format:
 | [0643-maximum-average-subarray-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -75,6 +76,7 @@ Each folder follows this format:
 | [0003-longest-substring-without-repeating-characters](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Each folder follows this format:
 | [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0047-permutations-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
