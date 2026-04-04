@@ -47,6 +47,7 @@ Each folder follows this format:
 | [0011-container-with-most-water](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0046-permutations/) | Medium |
@@ -148,6 +149,7 @@ Each folder follows this format:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 ## Math
