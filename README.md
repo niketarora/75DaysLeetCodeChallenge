@@ -53,6 +53,7 @@ Each folder follows this format:
 | [0046-permutations](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0051-n-queens/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -136,6 +137,7 @@ Each folder follows this format:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -159,6 +161,7 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 ## Math
