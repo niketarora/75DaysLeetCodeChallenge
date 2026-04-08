@@ -12,23 +12,23 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         // Method - 1 itrative way
-        // ListNode* prev = NULL;
-        // ListNode* next = head;
-        // ListNode* curr = head;
-        // while(curr){
-        //     next = curr->next;
-        //     curr->next = prev;
-        //     prev = curr;
-        //     curr = next;
-        // }
-        // return prev;
+        ListNode* prev = NULL;
+        ListNode* next = head;
+        ListNode* curr = head;
+        while(curr){
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
 
         // Method - 2 recursive way
         // base condition
-        if(head==NULL || head->next==NULL)  return head;
-        ListNode* newhead = reverseList(head->next);
-        head->next->next = head;
-        head->next = NULL;
-        return newhead;
+        // if(head==NULL || head->next==NULL)  return head;
+        // ListNode* newhead = reverseList(head->next);
+        // head->next->next = head;
+        // head->next = NULL;
+        // return newhead;
     }
 };
