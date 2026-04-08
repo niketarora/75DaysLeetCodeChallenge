@@ -222,4 +222,12 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
