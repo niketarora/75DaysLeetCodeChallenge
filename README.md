@@ -79,6 +79,7 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -124,6 +125,7 @@ Each folder follows this format:
 | [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -226,6 +228,7 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
