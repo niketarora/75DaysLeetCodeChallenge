@@ -250,6 +250,7 @@ Each folder follows this format:
 | [0104-maximum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@ Each folder follows this format:
 | [0104-maximum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -273,6 +275,7 @@ Each folder follows this format:
 | [0104-maximum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
