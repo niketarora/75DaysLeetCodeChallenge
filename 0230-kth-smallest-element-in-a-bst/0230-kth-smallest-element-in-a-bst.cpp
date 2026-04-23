@@ -19,15 +19,12 @@ public:
                 stk.push(root);
                 root = root->left;
             }
-            // Process the current node
             root = stk.top();
             stk.pop();
             
-            if (--k == 0) return root->val; // Found the kth smallest
-            
-            // Move to the right subtree
+            if (--k == 0) return root->val; 
             root = root->right;
         }
-        return -1; // Should not reach here for valid k
+        return -1;
     }
 };
