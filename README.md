@@ -63,6 +63,7 @@ Each folder follows this format:
 | [0150-evaluate-reverse-polish-notation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0216-combination-sum-iii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -82,6 +83,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -91,12 +93,14 @@ Each folder follows this format:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0047-permutations-ii/) | Medium |
+| [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -111,6 +115,7 @@ Each folder follows this format:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
