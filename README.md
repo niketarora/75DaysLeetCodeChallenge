@@ -145,6 +145,7 @@ Each folder follows this format:
 | [0143-reorder-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -156,6 +157,7 @@ Each folder follows this format:
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0344-reverse-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
