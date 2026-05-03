@@ -76,6 +76,7 @@ Each folder follows this format:
 | [0643-maximum-average-subarray-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -109,6 +110,7 @@ Each folder follows this format:
 | [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -147,6 +149,7 @@ Each folder follows this format:
 | [0283-move-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
