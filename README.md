@@ -67,6 +67,7 @@ Each folder follows this format:
 | [0136-single-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -213,6 +214,7 @@ Each folder follows this format:
 | [0035-search-insert-position](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0278-first-bad-version/) | Easy |
