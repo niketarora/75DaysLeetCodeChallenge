@@ -71,6 +71,7 @@ Each folder follows this format:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -179,6 +180,7 @@ Each folder follows this format:
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0344-reverse-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -190,6 +192,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0212-word-search-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -203,6 +206,7 @@ Each folder follows this format:
 | [0051-n-queens](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0090-subsets-ii/) | Medium |
+| [0212-word-search-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -387,6 +391,7 @@ Each folder follows this format:
 | [0014-longest-common-prefix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
