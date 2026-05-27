@@ -89,6 +89,7 @@ Each folder follows this format:
 | [0875-koko-eating-bananas](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0997-find-the-town-judge](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -114,6 +115,7 @@ Each folder follows this format:
 | [0567-permutation-in-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0997-find-the-town-judge](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -426,4 +428,8 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
