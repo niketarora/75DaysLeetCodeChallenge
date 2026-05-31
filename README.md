@@ -366,6 +366,7 @@ Each folder follows this format:
 | [0144-binary-tree-preorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -385,6 +386,7 @@ Each folder follows this format:
 | [0133-clone-graph](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
@@ -444,5 +446,10 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 | [0997-find-the-town-judge](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
