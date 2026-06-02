@@ -88,6 +88,7 @@ Each folder follows this format:
 | [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -260,6 +261,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
