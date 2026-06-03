@@ -256,16 +256,19 @@ Each folder follows this format:
 | [0002-add-two-numbers](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +343,7 @@ Each folder follows this format:
 | [0143-reorder-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
