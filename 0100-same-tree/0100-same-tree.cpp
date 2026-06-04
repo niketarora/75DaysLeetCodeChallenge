@@ -15,11 +15,11 @@ public:
         if(p == NULL && q == NULL)  return true;
         if(p == NULL && q != NULL)  return false;
         if(p != NULL && q == NULL)   return false;
-        if(p->val != q->val)    return false;
-        bool LSTans = isSameTree(p->left, q->left);
-        if(LSTans==false)  return false;
-        bool RSTans = isSameTree(p->right, q->right);
-        if(RSTans==false)  return false;
+        if(p->val != q->val)  return false;
+        bool LST = isSameTree(p->left, q->left);
+        if(!LST)    return false;
+        bool RST = isSameTree(p->right, q->right);
+        if(!RST)    return false;
         return true;
     }
 };
