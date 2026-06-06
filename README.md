@@ -57,6 +57,7 @@ Each folder follows this format:
 | [0046-permutations](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0051-n-queens/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0078-subsets/) | Medium |
@@ -106,6 +107,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
@@ -213,6 +215,7 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
