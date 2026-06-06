@@ -357,6 +357,7 @@ Each folder follows this format:
 | [0100-same-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -374,6 +375,7 @@ Each folder follows this format:
 | [0098-validate-binary-search-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -395,6 +397,7 @@ Each folder follows this format:
 | [0100-same-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -411,6 +414,7 @@ Each folder follows this format:
 | [0100-same-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
