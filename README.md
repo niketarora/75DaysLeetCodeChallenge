@@ -59,6 +59,7 @@ Each folder follows this format:
 | [0047-permutations-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
@@ -141,6 +142,7 @@ Each folder follows this format:
 | [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0047-permutations-ii/) | Medium |
+| [0056-merge-intervals](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
