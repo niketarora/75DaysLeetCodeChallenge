@@ -107,6 +107,7 @@ Each folder follows this format:
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
@@ -187,6 +188,7 @@ Each folder follows this format:
 | [0209-minimum-size-subarray-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
