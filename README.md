@@ -191,6 +191,7 @@ Each folder follows this format:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0016-3sum-closest/) | Medium |
@@ -215,6 +216,7 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
@@ -284,6 +286,7 @@ Each folder follows this format:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0118-pascals-triangle/) | Easy |
