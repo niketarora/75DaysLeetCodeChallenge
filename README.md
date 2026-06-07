@@ -89,6 +89,7 @@ Each folder follows this format:
 | [0238-product-of-array-except-self](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0496-next-greater-element-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
@@ -295,6 +296,7 @@ Each folder follows this format:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
@@ -434,6 +436,7 @@ Each folder follows this format:
 | [0200-number-of-islands](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
