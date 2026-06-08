@@ -211,6 +211,7 @@ Each folder follows this format:
 | [0283-move-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -227,6 +228,7 @@ Each folder follows this format:
 | [0211-design-add-and-search-words-data-structure](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0344-reverse-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
@@ -297,6 +299,7 @@ Each folder follows this format:
 | [0198-house-robber](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
+| [0392-is-subsequence](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
