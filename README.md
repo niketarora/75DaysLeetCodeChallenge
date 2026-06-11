@@ -142,6 +142,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
@@ -267,6 +268,7 @@ Each folder follows this format:
 | [0078-subsets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
