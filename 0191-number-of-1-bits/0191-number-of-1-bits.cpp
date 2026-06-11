@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int hammingWeight(int n) {
+        int count = 0;
+        
+        while (n != 0) {
+            n &= (n - 1); // Clears the lowest set bit
+            count++;      // Increments the count for each set bit found
+        }
+        
+        return count;
+    }
+};
