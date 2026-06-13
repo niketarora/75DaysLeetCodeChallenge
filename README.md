@@ -88,6 +88,7 @@ Each folder follows this format:
 | [0219-contains-duplicate-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -128,6 +129,7 @@ Each folder follows this format:
 | [0217-contains-duplicate](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0496-next-greater-element-i/) | Easy |
@@ -158,6 +160,7 @@ Each folder follows this format:
 | [0215-kth-largest-element-in-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -269,6 +272,7 @@ Each folder follows this format:
 | [0090-subsets-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0338-counting-bits/) | Easy |
 ## Binary Search
@@ -281,6 +285,7 @@ Each folder follows this format:
 | [0162-find-peak-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -293,6 +298,7 @@ Each folder follows this format:
 | [0050-powx-n](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
