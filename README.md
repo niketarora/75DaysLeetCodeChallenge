@@ -229,6 +229,7 @@ Each folder follows this format:
 | [0005-longest-palindromic-substring](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
+| [0067-add-binary](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -268,6 +269,7 @@ Each folder follows this format:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
@@ -296,6 +298,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
@@ -375,6 +378,7 @@ Each folder follows this format:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0067-add-binary/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
