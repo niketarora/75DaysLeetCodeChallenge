@@ -1,22 +1,22 @@
 class Solution {
 public:
-    void allSubsets(int idx, vector<int> ds, vector<int>& nums, vector<vector<int>>& ans){
+    void powerSet(int idx, vector<int> &nums, vector<int> &ds, vector<vector<int>> &answer){
         if(idx == nums.size()){
-            ans.push_back(ds);
+            answer.push_back(ds);
             return;
         }
-        // pick the element
+        // pick
         ds.push_back(nums[idx]);
-        allSubsets(idx+1, ds, nums, ans);
+        powerSet(idx+1, nums, ds, answer);
         ds.pop_back();
 
-        // without pick the element
-        allSubsets(idx+1, ds, nums, ans);
+        // not pick
+        powerSet(idx+1, nums, ds, answer);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
         vector<int> ds;
-        allSubsets(0, ds, nums, ans);
-        return ans;
+        vector<vector<int>> answer;
+        powerSet(0, nums, ds, answer);
+        return answer;
     }
 };
