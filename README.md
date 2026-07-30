@@ -249,6 +249,7 @@ Each folder follows this format:
 | [0567-permutation-in-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Matrix
@@ -313,6 +314,7 @@ Each folder follows this format:
 | [0150-evaluate-reverse-polish-notation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -340,6 +342,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0621-task-scheduler](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
