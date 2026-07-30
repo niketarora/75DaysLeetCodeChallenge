@@ -1,27 +1,19 @@
 class Solution {
 public:
-    void allSubsets(int idx, vector<int> ds, vector<int>& nums, set<vector<int>>& ans){
-        if(idx == nums.size()){
-            sort(ds.begin(), ds.end());
-            ans.insert(ds);
-            return;
+    void subsetSum(int idx, vector<int> &nums, vector<int> &ds, vector<vector<int>> &answer){
+        answer.push_back(ds);
+        for(int i=idx; i<nums.size(); i++){
+            if(i!=idx && nums[i] == nums[i-1])  continue;
+            ds.push_back(nums[i]);
+            subsetSum(i+1, nums,  ds, answer);
+            ds.pop_back();
         }
-        // pick the element
-        ds.push_back(nums[idx]);
-        allSubsets(idx+1, ds, nums, ans);
-        ds.pop_back();
-            
-        // without pick the element
-        allSubsets(idx+1, ds, nums, ans);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        set<vector<int>> ans;
-        vector<vector<int>> res;
         vector<int> ds;
-        allSubsets(0, ds, nums, ans);
-        for(auto ele : ans){
-            res.push_back(ele);
-        }
-        return res;
+        vector<vector<int>> answer;
+        sort(nums.begin(), nums.end());
+        subsetSum(0, nums, ds, answer);
+        return answer;
     }
 };
