@@ -112,6 +112,7 @@ Each folder follows this format:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -336,6 +337,7 @@ Each folder follows this format:
 | [0392-is-subsequence](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
