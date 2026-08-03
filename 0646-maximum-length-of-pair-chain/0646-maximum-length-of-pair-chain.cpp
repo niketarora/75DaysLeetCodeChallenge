@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int t[2501][2501];
+    int t[1001][1001];
     int solve(int idx, int prev, vector<vector<int>> &nums){
         if(idx >= nums.size()){
             return 0;
