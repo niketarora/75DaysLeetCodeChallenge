@@ -99,6 +99,7 @@ Each folder follows this format:
 | [0560-subarray-sum-equals-k](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0704-binary-search](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
@@ -167,6 +168,7 @@ Each folder follows this format:
 | [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -336,6 +338,7 @@ Each folder follows this format:
 | [0338-counting-bits](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Memoization
@@ -348,6 +351,7 @@ Each folder follows this format:
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0621-task-scheduler](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Enumeration
@@ -554,4 +558,8 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
