@@ -118,6 +118,7 @@ Each folder follows this format:
 | [2574-left-and-right-sum-differences](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3731-find-missing-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Each folder follows this format:
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ Each folder follows this format:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
