@@ -109,6 +109,7 @@ Each folder follows this format:
 | [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1046-last-stone-weight/) | Easy |
+| [1048-longest-string-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -141,6 +142,7 @@ Each folder follows this format:
 | [0621-task-scheduler](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0997-find-the-town-judge](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0997-find-the-town-judge/) | Easy |
+| [1048-longest-string-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -170,6 +172,7 @@ Each folder follows this format:
 | [0621-task-scheduler](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0621-task-scheduler/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1048-longest-string-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -234,6 +237,7 @@ Each folder follows this format:
 | [0567-permutation-in-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1048-longest-string-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1048-longest-string-chain/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -253,6 +257,7 @@ Each folder follows this format:
 | [0394-decode-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0567-permutation-in-string/) | Medium |
+| [1048-longest-string-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1048-longest-string-chain/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -340,6 +345,7 @@ Each folder follows this format:
 | [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1048-longest-string-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1048-longest-string-chain/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
