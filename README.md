@@ -578,4 +578,8 @@ Each folder follows this format:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
