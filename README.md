@@ -456,6 +456,7 @@ Each folder follows this format:
 | [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +481,7 @@ Each folder follows this format:
 | [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,6 +519,7 @@ Each folder follows this format:
 | [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0872-leaf-similar-trees/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
