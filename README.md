@@ -463,6 +463,7 @@ Each folder follows this format:
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -507,6 +508,7 @@ Each folder follows this format:
 | [0322-coin-change](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -529,6 +531,7 @@ Each folder follows this format:
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
