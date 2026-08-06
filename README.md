@@ -330,6 +330,7 @@ Each folder follows this format:
 | [0268-missing-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0509-fibonacci-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -366,6 +367,7 @@ Each folder follows this format:
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
