@@ -469,6 +469,7 @@ Each folder follows this format:
 | [0872-leaf-similar-trees](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -498,6 +499,7 @@ Each folder follows this format:
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -517,6 +519,7 @@ Each folder follows this format:
 | [0417-pacific-atlantic-water-flow](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -544,6 +547,7 @@ Each folder follows this format:
 | [0872-leaf-similar-trees](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
