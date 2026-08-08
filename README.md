@@ -293,6 +293,7 @@ Each folder follows this format:
 | [0051-n-queens](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bit Manipulation
@@ -453,6 +454,7 @@ Each folder follows this format:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
@@ -475,6 +477,7 @@ Each folder follows this format:
 | [0104-maximum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0133-clone-graph](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -521,6 +524,7 @@ Each folder follows this format:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
