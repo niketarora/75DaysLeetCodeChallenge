@@ -11,19 +11,25 @@
  */
 class Solution {
 public:
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        if (root == NULL) return false;
-        // If leaf node, check sum
-        if (root->left == NULL && root->right == NULL) {
-            return (targetSum == root->val);
+    bool solve(TreeNode* root, int curr, int targetSum){
+        if(root == NULL)    return false;
+
+        curr += root->val;
+        
+        if(root->right == NULL && root->left == NULL){
+            if(targetSum == curr)   return true;
+            else    return false;
         }
-        int remaining = targetSum - root->val;
 
-        // Store results in two variables
-        bool left = hasPathSum(root->left, remaining);
-        bool right = hasPathSum(root->right, remaining);
-
-        // Check both sides
+        bool left = solve(root->left, curr, targetSum); 
+        bool right = solve(root->right, curr, targetSum); 
+        
         return left || right;
+        
+    }
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        int curr = 0;
+        bool res = solve(root, curr, targetSum);
+        return res;
     }
 };
