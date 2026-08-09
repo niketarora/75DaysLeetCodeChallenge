@@ -463,6 +463,7 @@ Each folder follows this format:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -494,6 +495,7 @@ Each folder follows this format:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
@@ -517,6 +519,7 @@ Each folder follows this format:
 | [0226-invert-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0733-flood-fill](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0733-flood-fill/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -541,6 +544,7 @@ Each folder follows this format:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niketarora/75DaysLeetCodeChallenge/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
